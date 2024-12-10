@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a final-year Computer Engineering student at FcRIT, Vashi with a strong interest in Full Stack Web Development. <br>I have experience with React, Express and have worked on projects such as Block Chain based Auction Website. <br>Feel free to explore my projects and connect with me for potential opportunities or discussions.
+I’m a final-year Computer Engineering student pursuing my Bachelors of Engineering from Fr. C. Rodrigues Institute of Technology, Vashi. <br>I have experience working with languages such as C++, Python, C# and frameworks such as React JS and Express JS. My strengths include that I am a flexible team player, taking on different roles as needed to ensure the team meets its goals. I am also a proactive learner, if a project requires me to acquire new technologies, I am committed to putting in the necessary time and effort, including working late if needed, to quickly get up to speed and contribute effectively. My goal is to grow into an experienced developer and assume a senior role at a respected organization in the coming years, contributing to impactful projects and advancing the company's success. <br>Feel free to explore my projects and connect with me for potential opportunities or discussions.
 
 
 ## 🌐 Socials:
