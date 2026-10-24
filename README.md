@@ -1,5 +1,11 @@
 # 💫 About Me:
-I’m a final-year Computer Engineering student pursuing my Bachelors of Engineering from Fr. C. Rodrigues Institute of Technology, Vashi. <br>I have experience working with languages such as C++, Python, C# and frameworks such as React JS and Express JS. My strengths include that I am a flexible team player, taking on different roles as needed to ensure the team meets its goals. I am also a proactive learner, if a project requires me to acquire new technologies, I am committed to putting in the necessary time and effort, including working late if needed, to quickly get up to speed and contribute effectively. My goal is to grow into an experienced developer and assume a senior role at a respected organization in the coming years, contributing to impactful projects and advancing the company's success. <br>Feel free to explore my projects and connect with me for potential opportunities or discussions.
+Hi Reader, Anurag here. 
+I'm currently working as a Programmer Analyst at Cognizant Technology Solutions. 
+My responsibilities include handling of user stories on ServiceNow. I have experience in creation of business rules, client scripts to Virtual Agents, Flows and Access Control Lists.
+Having solved 300+ questions on LeetCode, C++ is my go to language for DSA and I have been developing projects in Python to gain some hands on experience.
+Some of the frameworks I have used are ASP.NET, LangChain, React and Express
+I have experience in SQL by working with MySQL Server as well as learning about Vector databases like ChromaDB for creation of local private Agents
+Currently developing a private local RAG Application for rapid information retrieval from private family documents using Ollama3.2 and nomic-embed-text models.
 
 
 ## 🌐 Socials:
